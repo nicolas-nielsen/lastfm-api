@@ -1,0 +1,21 @@
+{
+    "name": "nielsenn/lastfm-api",
+    "description": "LastFM API client",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nielsenn\\LastfmApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas Nielsen",
+            "email": "nicolas.nielsen@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">8.4"
+    }
+}
